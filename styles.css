@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+.swiper-container{
+    padding:1rem;
+    height: 80vh;
+   
+   
+}
+.swiper-slide{
+
+   font-size: 4rem;
+   width: 30vw;
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+   color: #fff;
+   background-size: contain;
+ 
+}
